@@ -16,7 +16,7 @@ I use Python, SQL, and Streamlit to explore customer, sales, retention, and mark
 
 ## About
 
-I am a data analytics graduate based in Pakistan. I enjoy turning business questions into clear analysis and practical dashboards, with a focus on customer behavior and commercial performance.
+I am a data analytics from Pakistan. I enjoy turning business questions into clear analysis and practical dashboards, with a focus on customer behavior and commercial performance.
 
 **Tools and methods:** Python, Pandas, NumPy, SQL, Streamlit, data visualization, cohort analysis, RFM segmentation, CAC, ROI, and business KPI reporting.
 
