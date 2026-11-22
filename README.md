@@ -2,7 +2,7 @@
 
 ### Data Analyst | Business Intelligence, Customer Retention & Commercial Analytics
 
-I am a Data Analytics graduate based in Pakistan specializing in transforming raw, complex datasets into structured business intelligence and interactive decision-making tools. My work bridges statistical exploration and practical commercial strategy—helping organizations optimize **customer retention, behavioral segmentation, retail profitability, inventory health, and marketing ROI**.
+I am a Data Analytics from Pakistan specializing in transforming raw, complex datasets into structured business intelligence and interactive decision-making tools. My work bridges statistical exploration and practical commercial strategy—helping organizations optimize **customer retention, behavioral segmentation, retail profitability, inventory health, and marketing ROI**.
 
 Rather than stopping at static spreadsheets or isolated notebooks, I build end-to-end analytical workflows using **Python and SQL** and deploy them as self-service **Streamlit web applications** so stakeholders can explore metrics, filter segments, and test business scenarios dynamically.
 
